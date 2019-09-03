@@ -1,5 +1,7 @@
 # tiny-package-test
 
-https://img.shields.io/node/v/@morenar/tiny
+[![npm (scoped)] 
+(https://img.shields.io/npm/v/@morenar/tiny)]
+(https://github.com/morenar/tiny)
 
 npm package publish test
