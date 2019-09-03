@@ -1,0 +1,14 @@
+{
+    "name": "@morenar/tiny",
+    "version": "0.0.3",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "Morenar/tiny-package-test",
+    "main": "index.js",
+    "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "morenar"
+  ]
+}
